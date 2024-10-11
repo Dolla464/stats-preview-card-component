@@ -110,12 +110,7 @@ section ul p {
 .overlay {
   background: var(--bg-violet);
   height: 100%;
-}
-
-.overlay-2 {
-  background: var(--bg-light-violet);
-  height: 100%;
-  mix-blend-mode: color-burn;
+  mix-blend-mode: multiply;
 }
 
 /* footer */
